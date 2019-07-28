@@ -6,5 +6,5 @@
 4. MapReduce (MapReduce)
 5. Index (Index)
 
-**각코드에 대한 자세한 내용: <a href=""><https://wjddyd66.github.io/category/NoSQL></a>**  
+**각코드에 대한 자세한 내용: <https://wjddyd66.github.io/category/NoSQL>**  
 연락처: wjddyd66@naver.com  
